@@ -1,3 +1,0 @@
-D:\GameJam\GameJam\GGJ\Source\GGJ\GGJ.Build.cs
-D:\GameJam\GameJam\GGJ\Source\GGJ.Target.cs
-D:\GameJam\GameJam\GGJ\Source\GGJEditor.Target.cs
